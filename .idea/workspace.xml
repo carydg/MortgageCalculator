@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Mortgage Calculator:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34adf9c9-b304-433f-a9cb-132ea8652b97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fEg869lDK5tPAoXb3mZcYsDMIl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ph.cary.Main" />
+      <module name="Mortgage Calculator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34adf9c9-b304-433f-a9cb-132ea8652b97" name="Default Changelist" comment="" />
+      <created>1595788503902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595788503902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596174527912">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1596174527912" />
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596054139128">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1596054139128" />
+    <state width="1286" height="171" key="GridCell.Tab.0.bottom" timestamp="1596169086659">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="171" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596169086659" />
+    <state width="1286" height="171" key="GridCell.Tab.0.center" timestamp="1596169086659">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="171" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1596169086659" />
+    <state width="1286" height="171" key="GridCell.Tab.0.left" timestamp="1596169086659">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="171" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1596169086659" />
+    <state width="1286" height="171" key="GridCell.Tab.0.right" timestamp="1596169086659">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="171" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1596169086659" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1596174612561">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1596174612561" />
+    <state x="65" y="0" key="new project wizard" timestamp="1596245340707">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1596245340707" />
+    <state x="346" y="59" key="search.everywhere.popup" timestamp="1595790107745">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1595790107745" />
+  </component>
+</project>
